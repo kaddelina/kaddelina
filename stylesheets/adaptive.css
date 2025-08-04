@@ -1,0 +1,17 @@
+@media screen and (min-width: 1px) and (max-width: 450px)  {
+.title1, .title2, .designer, .hse, .site, .intposter, .poster {
+    display: none
+}
+body{
+    background: url(../images/background2.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.title, .portfolio, .tg {
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+}
+}
